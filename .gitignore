@@ -1,2 +1,4 @@
 /node_modules
 .results.json
+/phase-0-*
+/css-essentials-css-issue-bot-9000
